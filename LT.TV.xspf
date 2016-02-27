@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Grojaraštis</title>
+	<trackList>
+		<track>
+			<location>64b52c21215afc5c46e0e1185e9c3ad68e479a08</location>
+			<title>LNK - pr2pr.lt</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>0b98fbe735198a28dc0c6d1933d3b23d5732c635</location>
+			<title>TV3 - pr2pr.lt</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>1483b54248f1fb8d70c372e1257694c70c8f6999</location>
+			<title>TV6 - pr2pr.lt</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>006e10a6f209864cc8ef98b10a4e6ab5bb7440f6</location>
+			<title>BTV - pr2pr.lt</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>a14e4fff268aebe4d7dda3bd537cfee48d037396</location>
+			<title>TV1 - pr2pr.lt</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ae852bdb1fdda6469dfcaa3a3e14d5ac7260d9ed</location>
+			<title>Lietuvos ryto televizija - pr2pr.lt</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>6edcccfd21ea4556a11dc269d1992e0b734bbd1b</location>
+			<title>TV8 - pr2pr.lt</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>77790b0dd248911271c0edac50b1785356250d89</location>
+			<title>LRT - pr2pr.lt</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>8e5ee848c92779803c88893aaa805fde948a78ab</location>
+			<title>LRT Kultûra - pr2pr.lt</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>64b52c21215afc5c46e0e1185e9c3ad68e479a08</location>
+			<title>LNK - pr2pr.lt</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>4f1e4d021c7963278de7b6d33dee8c2f1859879b</location>
+			<title>Info TV - pr2pr.lt</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>3bea2f854be3b3fc2f6192347c5161611c70fb5f</location>
+			<title>Viasat Sport Baltic</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>3ab9ae81a0f6a99c1317e98ba2b39547bf9c4276</location>
+			<title>Sport 1 LT</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
+			<vlc:item tid="11"/>
+			<vlc:item tid="12"/>
+	</extension>
+</playlist>
